@@ -11,12 +11,14 @@ H2 DB
 
 
 ##ENDPOINTS
-  */products/getAll
-  */products/getAll/desc
-  */products/getAll/asc
-  */products/delete/{id}
-  */products/update/{id}
-  */products/getById/{id}
+```
+  /products/getAll
+  /products/getAll/desc
+  /products/getAll/asc
+  /products/delete/{id}
+  /products/update/{id}
+  /products/getById/{id}
+```
 
 
 Prerrequisitos:
